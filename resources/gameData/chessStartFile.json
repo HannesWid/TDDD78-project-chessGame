@@ -1,0 +1,197 @@
+[
+  {
+    "playerWhiteTurn": true
+  },
+  {
+    "pieceEnum": "ROOK",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 0
+  },
+  {
+    "pieceEnum": "KNIGHT",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 1
+  },
+  {
+    "pieceEnum": "BISHOP",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 2
+  },
+  {
+    "pieceEnum": "QUEEN",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 3
+  },
+  {
+    "pieceEnum": "KING",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 4
+  },
+  {
+    "pieceEnum": "BISHOP",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 5
+  },
+  {
+    "pieceEnum": "KNIGHT",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 6
+  },
+  {
+    "pieceEnum": "ROOK",
+    "isWhite": false,
+    "pieceY": 0,
+    "pieceX": 7
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 0
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 1
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 2
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 3
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 4
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 5
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 6
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": false,
+    "pieceY": 1,
+    "pieceX": 7
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 0
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 1
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 2
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 3
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 4
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 5
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 6
+  },
+  {
+    "pieceEnum": "PAWN",
+    "isWhite": true,
+    "pieceY": 6,
+    "pieceX": 7
+  },
+  {
+    "pieceEnum": "ROOK",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 0
+  },
+  {
+    "pieceEnum": "KNIGHT",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 1
+  },
+  {
+    "pieceEnum": "BISHOP",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 2
+  },
+  {
+    "pieceEnum": "QUEEN",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 3
+  },
+  {
+    "pieceEnum": "KING",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 4
+  },
+  {
+    "pieceEnum": "BISHOP",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 5
+  },
+  {
+    "pieceEnum": "KNIGHT",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 6
+  },
+  {
+    "pieceEnum": "ROOK",
+    "isWhite": true,
+    "pieceY": 7,
+    "pieceX": 7
+  }
+]
